@@ -1,6 +1,6 @@
 [package]
 name = "serde"
-version = "1.0.147" # remember to update html_root_url and serde_derive dependency
+version = "1.0.160" # remember to update html_root_url and serde_derive dependency
 authors = ["Erick Tryzelaar <erick.tryzelaar@gmail.com>", "David Tolnay <dtolnay@gmail.com>"]
 build = "build.rs"
 categories = ["encoding", "no-std"]
